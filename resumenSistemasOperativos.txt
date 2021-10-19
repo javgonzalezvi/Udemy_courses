@@ -1,0 +1,37 @@
+Los sistemas operativos (SO) nacen de la necesidad de facilitar la comunicación entre 
+hardware y usuarios de las primeras computadoras post segunda guerra mundial.
+
+El software usado antes de los SO, era controlado mediante cintas o tarjetas perforadas
+que los operadores cargaban manualmente. Estos primeros computadores eran monotarea, 
+es decir, se realizaba un proceso a la vez.
+
+Esto fue así hasta que en los años sesenta salio el que es considerado el primer SO, 
+el CTSS por sus siglas en inglés "Compatible Time-Sharing System". Desarrollado por el 
+MIT en los primeros años de la decada de los 60. 
+
+Como precursores del CTSS se desarrollaron sistemas como Atlas o XDS-940; estos se pueden 
+ubicar a finales de los años 50 e inicios de los 60. Estos se basaban en procesos batch
+los cuales incluian una serie de tareas en cintas magneticas.
+
+Han sido varios los SO que se han desarrollado, ya en los años 60 con una idea clara de lo 
+que se buscaba y algunos proyectos en funcionamiento, empiezan a surgir nuevos SO, como el 
+exec2 y posteriormente el exec8, OS-360 todos estos lanzados a finales de los 60. Otro SO,
+nacido entre los 60 y 70 que vale la pena mencionar es unix, sistema de gran importancia para
+los SO posteriores.
+
+En los años 70 se desarrollaron mas SO, pero no fue hasta los años 80 donde se dio un salto,
+pues fue en esta decada, donde surgieron sistemas como "lisa OS" y "mac OS" por parte de apple,
+y MS-DOS por parte de microsoft. Es con estos, donde se empieza a ver una interfaz más "amigable"
+con el usuario, con lo que se logra ser mas comercial. Es en los 90 donde se concretan las
+intefaces graficas con las que estamos más familiarizados actualmente, como lo son las intefaz
+de windows (win95, win98, winXP, win7, win10), linux, y los mac OS.
+
+Con la creacion de nuevos dispositivos también fue necesario darles una SO que se adaptara
+a las necesidades tanto del dispositivo como del usuario. Es aqui donde toman relevancia 
+los SO desarrollados para dispositivos mobiles, como ios de mac, o los sistemas android.
+
+Aunque las tecnologias así como los propios SO han evolucionado su objetivo sigue siendo
+el de facilitar el trabajo al usuario, haciendolo lo más intuitivo posible. Es esta 
+evolucion en las tecnologias lo que le ha obligado a los SO a crear y adaptar nuevos
+objetivos, como la capacidad de ser multi-tarea, multi-usuario, así como adaptar el 
+nuevo hardware que surja sin comprometer la integridad de los usuarios.
